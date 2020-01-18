@@ -11,8 +11,8 @@ testing (either Cosine or Jaccard).
 
     java Pastiche data/folder_with_texts Data_structure Method_of_testing
 
-For example: java Pastiche data/even_and_odd LinkedWordMap Cosine
-             java Pastiche data/alice/data-2 TreeWordMap Jaccard
+For example: java Pastiche data/pride_and_prejudice/data-1 TreeWordMap Jaccard
+             java Pastiche data/alice/data-1 LinkedWordMap Cosine
 
 
 
